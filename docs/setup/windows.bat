@@ -12,7 +12,8 @@ haxelib set flixel-demos 3.3.0
 
 haxelib install flixel-templates 2.7.0
 haxelib set flixel-templates 2.7.0
-
+haxelib install lime 8.0.1
+haxelib set lime 8.0.1
 haxelib install flixel-tools 1.5.1
 haxelib set flixel-tools 1.5.1
 
